@@ -27,11 +27,13 @@
 ![설정페이지](https://github.com/LeeHanJun00/Themoim/assets/137124830/0385f6ca-a2f0-4f37-94ed-ab753e911e5d)
 
 
-> 제품 페이지
-- 오래된/최근/가격/이름/순으로 정렬 가능
-- 장바구니 기능
+> 좋아요 및 추천모임
+- 사용자가 선택한 관심사에따라 모임을 추천해줍니다.
+- 관심있는 모임에 좋아요를 할 수 있습니다.
+- 좋아요한 모임은 프로필에서 따로 확인이 가능합니다.
 
-![카테고리,장바구니](https://github.com/LeeHanJun00/MeowMall/assets/137124830/5eeb53db-4c40-425c-af86-6a01e9dd9052)
+![좋아요및추천모임](https://github.com/LeeHanJun00/Themoim/assets/137124830/13f0dd41-6acc-485b-920a-4da98f971f5d)
+
 
 > 장바구니 / 결제 페이지
 - 제품 수량 수정 및 삭제 <br>
