@@ -49,35 +49,7 @@
 ![내모임및알림](https://github.com/LeeHanJun00/Themoim/assets/137124830/48bad0c0-37e9-41f0-8ae6-59ad6ac1f648)
 
 
-> 마이페이지-고양이정보
-- 내 고양이 정보 입력 및 사진등록
 
-![고양이정보](https://github.com/LeeHanJun00/MeowMall/assets/137124830/11d3ec0b-8e12-45f2-8b05-f3acdd9f1589)
-
-> 마이페이지-리뷰작성/조회
-- 구매확정시 리뷰 작성이 가능합니다
-- 사진과 내용을 입력한 후 나의 리뷰에서 내가 쓴 리뷰를 조회할 수 있습니다.
-
-![리뷰작성](https://github.com/LeeHanJun00/MeowMall/assets/137124830/ce7075f6-b076-4b78-abd5-0248895a6c95)
-
-> 관리자페이지
-- 상품관리/회원관리/주문관리/QnA답변
-
-![관리자페이지](https://github.com/LeeHanJun00/MeowMall/assets/137124830/315d2188-3a89-4c62-95f0-bc871342a28b)
-
-> 관리자페이지-회원관리/주문관리
-- 회원 삭제
-- 고양이정보 확인
-- 배송중/배송완료 처리가능
-
-![회원관리배송관리](https://github.com/LeeHanJun00/MeowMall/assets/137124830/beef1f9a-14b7-46db-8ddf-4e9c8757a96c)
-
-> 답변페이지
-- QnA 질문 확인
-- 답변 및 게시글 삭제 기능
-
-
-![답변작성삭제](https://github.com/LeeHanJun00/MeowMall/assets/137124830/43d3c26e-26b4-4dd6-867a-0ffebf08338e)
 
 
 
