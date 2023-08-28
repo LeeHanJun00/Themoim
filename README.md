@@ -19,13 +19,17 @@
 - 로컬 로그인 및 소셜로그인이 가능합니다.
 ![로그인](https://github.com/LeeHanJun00/Themoim/assets/137124830/8ed48e7f-cde3-41cc-accc-a7e888a6dc47)
 
-
 > 설정페이지  
 - 개인정보 수정 활동지역/내 관심사 선택이 가능합니다
 - 내성향 테스트(MBTI테스트)
 - 비밀번호 수정/회원탈퇴
 
 ![설정페이지](https://github.com/LeeHanJun00/Themoim/assets/137124830/0385f6ca-a2f0-4f37-94ed-ab753e911e5d)
+
+> 좋아요기능  
+- 맘에드는 모임 좋아요 기능
+- 프로필페이지에서 내가 좋아요한 모임들 조회가능
+![좋아요및추천모임](https://github.com/LeeHanJun00/Themoim/assets/137124830/13f0dd41-6acc-485b-920a-4da98f971f5d)
 
 > 모임가입
 - 답변을 작성하여 모임에 가입할 수 있습니다.
