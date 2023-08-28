@@ -63,6 +63,11 @@
 
 ![챌린지](https://github.com/LeeHanJun00/Themoim/assets/137124830/b7ae5630-009b-48dd-94d3-9da8d76b5005)
 
+> 일정
+- 모임장은 모임원들을 위해 공지를 작성할 수 있습니다.
+
+![공지작성](https://github.com/LeeHanJun00/Themoim/assets/137124830/2f3102b0-16e2-4a97-926c-dfc11865c0b3)
+
 
 
 
