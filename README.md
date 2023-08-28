@@ -68,6 +68,8 @@
 
 ![공지작성](https://github.com/LeeHanJun00/Themoim/assets/137124830/2f3102b0-16e2-4a97-926c-dfc11865c0b3)
 
+> 모임등급
+- 여러 도전과제를 달성하여 모임등급을 높일 수 있습니다.
 
-
+![모임등급](https://github.com/LeeHanJun00/Themoim/assets/137124830/8114c8f7-f8f7-41d8-a7cc-9b38b0553b15)
 
