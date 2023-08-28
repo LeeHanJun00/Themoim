@@ -19,13 +19,14 @@
 ![로그인](https://github.com/LeeHanJun00/Themoim/assets/137124830/8ed48e7f-cde3-41cc-accc-a7e888a6dc47)
 
 
-> QnA페이지
-- 글 조회 및 본인글 수정/삭제 
-- 비밀글 기능(작성자 및 관리자만 확인 가능)
-- 답변상태 확인 가능
-- 페이징
+> 설정페이지
+-개인정보 수정 활동지역/내 관심사 선택이 가능합니다
+-내성향 테스트(MBTI테스트)
+-비밀번호 수정/회원탈퇴
 
-![qna(작성,삭제,비밀글)](https://github.com/LeeHanJun00/MeowMall/assets/137124830/11d8aa45-5b98-4b42-89bd-999bc0412086)
+
+![설정페이지](https://github.com/LeeHanJun00/Themoim/assets/137124830/0385f6ca-a2f0-4f37-94ed-ab753e911e5d)
+
 
 > 제품 페이지
 - 오래된/최근/가격/이름/순으로 정렬 가능
