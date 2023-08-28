@@ -26,6 +26,16 @@
 
 ![설정페이지](https://github.com/LeeHanJun00/Themoim/assets/137124830/0385f6ca-a2f0-4f37-94ed-ab753e911e5d)
 
+> 모임가입
+- 답변을 작성하여 모임에 가입할 수 있습니다.
+![모임가입](https://github.com/LeeHanJun00/Themoim/assets/137124830/9ddb37fd-e7cc-48a2-99b5-3ade2b0c6481)
+
+> 모임가입 알림
+- 모임장은 모임 가입 신청 알람이 뜨게되고 사용자의 정보와 답변을 볼 수 있습니다.
+- 모임 수락과 거절을할 수 있습니다.
+  
+![내모임및알림](https://github.com/LeeHanJun00/Themoim/assets/137124830/48bad0c0-37e9-41f0-8ae6-59ad6ac1f648)
+
 > 공지  
 - 모임장은 모임원들을 위해 공지를 작성할 수 있습니다.
 
