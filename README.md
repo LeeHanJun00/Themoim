@@ -41,6 +41,21 @@
   
 ![내모임및알림](https://github.com/LeeHanJun00/Themoim/assets/137124830/48bad0c0-37e9-41f0-8ae6-59ad6ac1f648)
 
+> 게시글작성  
+- 모임원들과 소통할수있는 게시물페이지 입니다.
+- 
+![게시글작성](https://github.com/LeeHanJun00/Themoim/assets/137124830/38b094fa-336c-47a6-827d-15060ad43631)
+
+
+> 모임 일정관리  
+- 모임일정을 관리할 수 있습니다.
+![일정](https://github.com/LeeHanJun00/Themoim/assets/137124830/b2532813-ebe5-45ad-bb12-bba570565750)
+
+  
+> 모임 챌린지 
+- 모임내에서 챌린지를 등록하여 모임원과 함께 챌린지를할 수 있습니다.
+![챌린지](https://github.com/LeeHanJun00/Themoim/assets/137124830/b7ae5630-009b-48dd-94d3-9da8d76b5005)
+  
 > 공지  
 - 모임장은 모임원들을 위해 공지를 작성할 수 있습니다.
 
