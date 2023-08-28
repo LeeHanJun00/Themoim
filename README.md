@@ -24,6 +24,8 @@
 - 내성향 테스트(MBTI테스트)
 - 비밀번호 수정/회원탈퇴
 
+![설정페이지](https://github.com/LeeHanJun00/Themoim/assets/137124830/0385f6ca-a2f0-4f37-94ed-ab753e911e5d)
+
 > 공지  
 - 모임장은 모임원들을 위해 공지를 작성할 수 있습니다.
 
