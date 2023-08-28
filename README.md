@@ -60,8 +60,9 @@
 
 > 일정
 - 모임원들과 함께 챌린지를 만들고 도전할 수 있습니다.
-- 
-![챌린지](https://github.com/LeeHanJun00/Themoim/assets/137124830/5d0def1c-ad31-429f-88c5-427755c783db)
+
+![챌린지](https://github.com/LeeHanJun00/Themoim/assets/137124830/b7ae5630-009b-48dd-94d3-9da8d76b5005)
+
 
 
 
