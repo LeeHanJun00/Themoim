@@ -42,11 +42,12 @@
 
 ![모임가입](https://github.com/LeeHanJun00/Themoim/assets/137124830/9ddb37fd-e7cc-48a2-99b5-3ade2b0c6481)
 
-> 마이페이지
-- 내 정보 수정 <br>
-- 주문내역/리뷰작성 및 나의 리뷰 조회/ 문의내역 확인 <br>
+> 알림 및 모임 가입 수락
+-다른 사용자가 모임가입을 신청하면 모임을 만든 모임장에게 알람이갑니다.
+-가입신청한 유저의 정보와 답변을 확인할 수 있습니다.
 
-![마이페이지구성](https://github.com/LeeHanJun00/MeowMall/assets/137124830/d7616544-71cf-4f7c-a5a6-bf51c06c6ec8)
+![내모임및알림](https://github.com/LeeHanJun00/Themoim/assets/137124830/48bad0c0-37e9-41f0-8ae6-59ad6ac1f648)
+
 
 > 마이페이지-고양이정보
 - 내 고양이 정보 입력 및 사진등록
