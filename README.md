@@ -41,7 +41,7 @@
 ![모임가입](https://github.com/LeeHanJun00/Themoim/assets/137124830/9ddb37fd-e7cc-48a2-99b5-3ade2b0c6481)
 
 > 알림 및 모임 가입 수락  
-- 다른 사용자가 모임가입을 신청하면 모임을 만든 모임장에게 알람이갑니다.
+- 다른 사용자가 모임가입을 신청하면 모임을 만든 모임장에게 알람창에 알람이 뜨게됩니다.
 - 가입신청한 유저의 정보와 답변을 확인할 수 있습니다.
 
 ![내모임및알림](https://github.com/LeeHanJun00/Themoim/assets/137124830/48bad0c0-37e9-41f0-8ae6-59ad6ac1f648)
