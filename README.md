@@ -54,7 +54,7 @@
 
 > 일정
 - 모임의 일정을 등록하고 참여할 수 있습니다
-
+ 
 ![일정](https://github.com/LeeHanJun00/Themoim/assets/137124830/b2532813-ebe5-45ad-bb12-bba570565750)
 
 
