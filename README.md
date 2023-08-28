@@ -36,11 +36,11 @@
 
 
 
-> 장바구니 / 결제 페이지
-- 제품 수량 수정 및 삭제 <br>
-- 우편API/결제 <br>
+> 모임가입
+-모임을 누르면 모임의 상세정보를 확인할 수 있습니다.
+-모입 가입하기를 누르면 모임을 가입할 수 있습니다.
 
-![장바구니결제](https://github.com/LeeHanJun00/MeowMall/assets/137124830/5fa829e2-bf53-466d-8b30-a2eeea28dfed)
+![모임가입](https://github.com/LeeHanJun00/Themoim/assets/137124830/9ddb37fd-e7cc-48a2-99b5-3ade2b0c6481)
 
 > 마이페이지
 - 내 정보 수정 <br>
