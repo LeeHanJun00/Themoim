@@ -14,10 +14,9 @@
 -크기를 줄이면 화면의 크기가 자동으로 줄어듭니다.(모든 페이지를 반응형웹으로 설계했습니다.)
 ![메인페이지](https://github.com/LeeHanJun00/Themoim/assets/137124830/0da01328-8f6f-4ede-84c1-9b7ba19f5aef)
 
-> 로그인 페이지
-- 자체 로그인 및 소셜로그인이 가능합니다.
-
-![로그인,로그아웃](https://github.com/LeeHanJun00/MeowMall/assets/137124830/ccef9bde-7c4e-4b73-b70a-d65fe4984bf7)  
+> 로그인/회원가입 페이지
+- 로컬 로그인 및 소셜로그인이 가능합니다.
+![로그인](https://github.com/LeeHanJun00/Themoim/assets/137124830/8ed48e7f-cde3-41cc-accc-a7e888a6dc47)
 
 
 > QnA페이지
