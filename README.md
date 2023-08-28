@@ -73,3 +73,9 @@
 
 ![모임등급](https://github.com/LeeHanJun00/Themoim/assets/137124830/8114c8f7-f8f7-41d8-a7cc-9b38b0553b15)
 
+
+> 성향테스트
+- 성향테스트를 통해 모임을 추천받아볼 수 있습니다. 
+![엠비티아이](https://github.com/LeeHanJun00/Themoim/assets/137124830/dfb33d08-429b-4c44-9b8e-94a28b032772)
+
+
