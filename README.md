@@ -76,7 +76,11 @@
 
 > 성향테스트
 - 성향테스트를 통해 모임을 추천받아볼 수 있습니다.
-- 
+
 ![엠비티아이](https://github.com/LeeHanJun00/Themoim/assets/137124830/dfb33d08-429b-4c44-9b8e-94a28b032772)
 
+> 관리자페이지
+- 여러 모임의 데이터를 확인할 수있습니다
+- 회원관리/모임관리/신고관리가 가능합니다
+![관리자 페이지](https://github.com/LeeHanJun00/Themoim/assets/137124830/3aa4d00f-d017-4c86-af63-2f29a0d51663)
 
