@@ -1,4 +1,4 @@
-# <span style="color:orange">MeowMall</span>
+# <span style="color:orange">더모임</span>
 
 ## 기술 스택
 
