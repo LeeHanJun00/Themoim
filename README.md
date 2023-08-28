@@ -11,8 +11,8 @@
 ## 페이지 구성
 
 > 메인페이지
-
-![소개](https://github.com/LeeHanJun00/MeowMall/assets/137124830/4ea9710c-995d-4187-9830-c1be249aae6a)  
+-크기를 줄이면 화면의 크기가 자동으로 줄어듭니다.(모든 페이지를 반응형웹으로 설계했습니다.)
+![메인페이지](https://github.com/LeeHanJun00/Themoim/assets/137124830/0da01328-8f6f-4ede-84c1-9b7ba19f5aef)
 
 > 로그인 페이지
 - 자체 로그인 및 소셜로그인이 가능합니다.
