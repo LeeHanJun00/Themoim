@@ -47,7 +47,10 @@
 
 ![내모임및알림](https://github.com/LeeHanJun00/Themoim/assets/137124830/48bad0c0-37e9-41f0-8ae6-59ad6ac1f648)
 
+> 게시글 작성
+- 내가만든모임 및 가입한모임에서 게시글/댓글 을 자유롭게 작성하고 좋아요를 누를수 있습니다.
 
+![게시글작성](https://github.com/LeeHanJun00/Themoim/assets/137124830/38b094fa-336c-47a6-827d-15060ad43631)
 
 
 
